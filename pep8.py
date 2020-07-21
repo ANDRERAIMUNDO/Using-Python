@@ -13,6 +13,8 @@ A ideia da PEP8 é que possamos escrever codigos Pythom em forma Pythônica
 (5) imports
 -Imports devem ser sempre feitos em linhas separadas
 -Iports devem ser colocados no topo do arquivo
+(6) Espaços em expressões e instruçoes
+(7)Termine sempre uma instrução com uma nova linha
 """
 
 
